@@ -20,6 +20,8 @@ http://git.bilibili.co/platform/go-common/tree/master/business/service/archive
 http://info.bilibili.co/pages/viewpage.action?pageId=7539410
 
 ## 负责人信息
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fanallove%2Fopenbilibili-go-common.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fanallove%2Fopenbilibili-go-common?ref=badge_shield)
+
 <details>
 <summary>展开查看</summary>
 <pre><code>.
@@ -524,3 +526,7 @@ http://info.bilibili.co/pages/viewpage.action?pageId=7539410
             └── Owner: 
 </code></pre>
 </details>
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fanallove%2Fopenbilibili-go-common.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fanallove%2Fopenbilibili-go-common?ref=badge_large)
